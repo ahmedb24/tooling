@@ -35,6 +35,8 @@ CREATE TABLE `users` (
 --
 -- Dumping data for table `users`
 --
+USE tooling;
+
 INSERT INTO `users` (
     `id`,
     `username`,
