@@ -24,6 +24,8 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `users`
 --
+USE tooling;
+
 CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `username` varchar(255) NOT NULL,
