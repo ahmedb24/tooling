@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `users`
 --
-CREATE DATABASE IF NOT EXIST tooling;
+CREATE DATABASE IF NOT EXISTS tooling;
 
 USE tooling;
 
